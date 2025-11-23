@@ -7,6 +7,6 @@ export default function Home() {
       <div className="w-full h-[85vh] bg-white rounded-3xl shadow-2xl overflow-hidden ring-1 ring-slate-900/5">
         <CanvasMap />
       </div>
-    </main>
+    </main> 
   );
 }
