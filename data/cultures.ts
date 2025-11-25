@@ -21,9 +21,9 @@ export const cultureData: CultureData[] = [
   },
   {
     id: 'perpus',
-    name: 'Perpustakaan Pusat',
+    name: 'Digilib',
     category: 'Fasilitas',
-    description: 'Zona hening absolut. Ada legenda urban tentang "Penjaga Lantai 4" yang akan menegur siapa saja yang berbisik.',
+    description: '.',
     habit: 'Rebutan kursi dekat colokan',
     icon: '📚',
     color: 'bg-emerald-500',
