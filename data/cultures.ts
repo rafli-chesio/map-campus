@@ -6,7 +6,7 @@ export const cultureData: CultureData[] = [
     name: 'Fakultas Teknik',
     category: 'Akademik',
     description: 'Anak-anak punk.',
-    habit: 'Laptop 24/7',
+    habit: '',
     icon: '⚙️',
     color: 'bg-blue-500',
   },
