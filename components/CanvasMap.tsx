@@ -19,7 +19,7 @@ export default function CanvasMap() {
       {/* Floating Header / HUD */}
       <div className="absolute top-6 left-0 right-0 flex flex-col items-center z-10 pointer-events-none">
         <h1 className="text-3xl font-extrabold text-slate-800 tracking-tight">
-          Universitas Negeri Medan Cultures Map
+          Universitas Negeri Medan Map
         </h1>
         <p className="text-slate-500 mt-1 text-sm font-medium">
             Jelajahi cerita di setiap sudut
