@@ -36,7 +36,7 @@ export default function CanvasMap() {
             </span>
         </motion.div>
       </div>
-
+    
       {/* The Map */}
       <div className="w-full max-w-5xl p-4">
         <MapSVG 

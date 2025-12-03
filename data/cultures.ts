@@ -56,7 +56,7 @@ export const cultureData: CultureData[] = [
     color: 'bg-slate-600',
   },
   {
-    id: 'taman',
+    id: 'kolam',
     name: '',
     category: 'Publik',
     description: '.',
